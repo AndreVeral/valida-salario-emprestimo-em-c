@@ -1,0 +1,1 @@
+Dados salário e parcela, quando parcela menor do que 20% de salário, então exibir mensagem "Empréstimo concedido". Se parcela maior do que 20% de salário, então exibir mensagem "Empréstimo negado".
